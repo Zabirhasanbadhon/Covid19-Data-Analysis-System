@@ -160,7 +160,7 @@ Open this folder in Visual Studio Code.
 Create a file named:
 
 ```text
-covid_gui.py
+covid19 Data Analysis.py
 ```
 
 Paste the complete Python source code for the COVID-19 dashboard into this file and save it.
