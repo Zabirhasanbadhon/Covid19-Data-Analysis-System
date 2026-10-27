@@ -293,7 +293,7 @@ The application converts invalid or missing values in the main numerical columns
 
 ## 👨‍💻 Developer
 
-** ZaBir HaSan**
+## ZaBir HaSan
 
 ---
 
